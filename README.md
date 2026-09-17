@@ -53,3 +53,10 @@ RFQ → Vendor Invite → Bid Submission → Bid Comparison → Award → Change
 
 - Get It Done app repo: https://github.com/LevelUpWorldHub/get-it-done
 
+## Desk status (2026-09-16 PT)
+
+- Classify: command-center knowledge OS — see `desk/CLASSIFY-SHIP-20260916.md`.
+- Portfolio gaps: Dunhill Trading / LevelUpGrowth folders not started — see `projects/INDEX.md`.
+- Phase 1 product (desk law): `LevelUpWorldHub/mcp-registry-gateway` = control plane + MCP Security Gateway (not 100 broad tools).
+- Account law: label every job `gh_login=` · `owner/name=` · `vercel_team=` / `vercel_login=` when shipping.
+
